@@ -20,3 +20,9 @@ Branches : Used to create a different copy of a project that is added with exper
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It just simply remembers all the changes made to the local repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Sharing projects, working on opensource projects etc. The easy part of this could be that it avoids 
+confusion among the project creators, but the hardest part is if they are new to Git and having least
+experience in it.
