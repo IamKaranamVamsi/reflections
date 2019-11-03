@@ -16,3 +16,7 @@ Forks : Used to get a copy of a repository in the GitHub server to our GitHub
 Clones : Used to get a copy of a repository from Github or from local machine to another directory of the
 local machine
 Branches : Used to create a different copy of a project that is added with experimental features.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It just simply remembers all the changes made to the local repository.
