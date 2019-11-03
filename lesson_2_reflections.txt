@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+After initializing a repository, no commits were created but the .git file which keeps track of all
+the commits made. Initialzing a repository makes it as a version controlled project, basically changes
+a directory to a repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area works as an intermediate between directory and repository.
